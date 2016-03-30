@@ -1,4 +1,5 @@
 ---
+title: this is my title only
 name: fx
 age: 29
 sex: man
