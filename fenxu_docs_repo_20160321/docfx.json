@@ -6,8 +6,7 @@
           "**/*.md"
         ],
         "exclude": [
-          "**/obj/**",
-          "fenxu_docs_repo_20160321/**"
+          "**/obj/**"
         ],
         "src": null,
         "dest": null
@@ -17,11 +16,12 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "_themes/**"
         ],
         "exclude": [
           "**/obj/**",
-          "fenxu_docs_repo_20160321/**"
+          "_themes/DocPacker/**"
         ],
         "src": null,
         "dest": null
